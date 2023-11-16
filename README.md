@@ -47,5 +47,15 @@
 ### Name: Deepika S
 ### Register Number: 212222230028
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
